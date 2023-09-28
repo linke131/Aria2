@@ -3,10 +3,6 @@
 #####	作者：xiaoz.me						#####
 #####	更新时间：2020-02-27				#####
 
-#导入环境变量
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/bin:/sbin
-export PATH
-
 #CDN域名设置
 if [ $1 = 'cdn' ]
 	then
