@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aria2
 =======
 # CCAA
@@ -79,4 +78,3 @@ docker run --name="ccaa" -d -p 6080:6080 -p 6081:6081 -p 6800:6800 -p 51413:5141
 ### 请我喝一杯咖啡
 
 ![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
->>>>>>> 24ab9a7 (first commit)
