@@ -12,12 +12,12 @@ if [ $1 = 'cdn' ]
 	then
 	aria2_url='https://github.com/linke131/Aria2/releases/download/V1.36.0/aria2-1.36.0-linux-gnu-64bit-build1.zip'
 	filebrowser_url='https://github.com/filebrowser/filebrowser/releases/download/v2.25.0/darwin-amd64-filebrowser.tar.gz'
-	master_url='https://github.com/linke131/ccaa/archive/master.zip'
+	master_url='https://github.com/linke131/Aria2/archive/master.zip'
 	ccaa_web_url='http://soft.xiaoz.top/linux/ccaa_web.tar.gz'
 	else
 	aria2_url='https://github.com/linke131/Aria2/releases/download/V1.36.0/aria2-1.36.0-linux-gnu-64bit-build1.zip'
 	filebrowser_url='https://github.com/filebrowser/filebrowser/releases/download/v2.25.0/darwin-amd64-filebrowser.tar.gz'
-	master_url='https://github.com/linke131/ccaa/archive/master.zip'
+	master_url='https://github.com/linke131/Aria2/archive/master.zip'
 	ccaa_web_url='http://soft.xiaoz.org/linux/ccaa_web.tar.gz'
 fi
 
